@@ -1,0 +1,23 @@
+{
+  "name": "go-face",
+  "version": "1.0.0",
+  "description": "service for search my photo from collection",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "$(npm bin)/electron src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batazor/go-face.git"
+  },
+  "author": "batazor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/batazor/go-face/issues"
+  },
+  "homepage": "https://github.com/batazor/go-face#readme",
+  "devDependencies": {
+    "electron": "^5.0.2"
+  }
+}
