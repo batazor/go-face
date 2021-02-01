@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/batazor/go-face#readme",
   "devDependencies": {
-    "electron": "^6.0.12"
+    "electron": "^9.0.0"
   }
 }
